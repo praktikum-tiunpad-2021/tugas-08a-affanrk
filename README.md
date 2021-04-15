@@ -3,7 +3,7 @@
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## AFFAN RIFQY KURNIADI - 140810200003
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
